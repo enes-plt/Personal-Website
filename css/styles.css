@@ -309,6 +309,8 @@ body {
 
 .checkitout{
     text-align: center;
+    color: black;
+    font-weight: bold;
 }
 
 .moreprojects{
@@ -818,5 +820,5 @@ body {
     left: 18px;
     height: 100%;
     width: 4px;
-    background: #F3F4F6;;
+    background: #F3F4F6;
 }
