@@ -311,7 +311,7 @@ body {
 
 .checkitout{
     text-align: center;
-    color: wheat;
+    color: yellow;
     font-weight: bold;
 }
 
@@ -669,6 +669,7 @@ body {
     }
 
     .vertical-timeline-element-content .vertical-timeline-element-date {
+        color: white;
         font-size: 14px;
         font-size: .875rem
     }
