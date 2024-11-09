@@ -1,5 +1,5 @@
 body {
-    background: #E0E0E0;
+    background: rgb(33, 33, 51);
 }
 .logo-nav{
     width: 45px;
@@ -129,14 +129,14 @@ body {
 
 .bottomborder{
     width: 100%;
-    border-top: 1px solid black;
+    border-top: 1px solid yellow;
     
     margin: 0 auto;
     margin-top: 50px;
 }
 
 .bottombordereducation{
-    border-top: 1px solid black;
+    border-top: 1px solid yellow;
     margin: 0 auto;
     margin-top: 50px;
     max-width: 950px;
@@ -144,7 +144,7 @@ body {
 }
 
 .bottomborderexperience{
-    border-top: 1px solid black;
+    border-top: 1px solid yellow;
     margin: 0 auto;
     max-width: 950px;
     margin-top: 50px;
@@ -225,10 +225,12 @@ body {
 
 .projectcard{
     border-radius: 15px;
-    border: 1px solid black;
+    border: 1px solid yellow;
     padding: 20px;
     margin-right: 10px;
     margin-bottom: 10px;
+    color: white;
+    background-color: rgb(33, 33, 51);
 }
 
 .projectsec{
@@ -309,7 +311,7 @@ body {
 
 .checkitout{
     text-align: center;
-    color: black;
+    color: wheat;
     font-weight: bold;
 }
 
@@ -320,7 +322,9 @@ body {
 
 .cardcontainer{
     
-    background-color: #F3F4F6;
+    background-color: rgb(33, 33, 51);
+    border: 1px solid yellow;
+    color: white;
     padding: 15px; 
     max-width: 650px;
     margin: 0 auto;
@@ -356,6 +360,8 @@ body {
     justify-content: center;
     list-style: none;
     margin: 0 auto;
+    color: white;
+    
 }
 
 .text-5xl{
@@ -820,5 +826,5 @@ body {
     left: 18px;
     height: 100%;
     width: 4px;
-    background: #F3F4F6;
+    background: yellow;
 }
